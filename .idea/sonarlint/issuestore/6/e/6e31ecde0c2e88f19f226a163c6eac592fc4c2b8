@@ -1,0 +1,8 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÝàè8¬¯´×ê.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Öèª×ùÿÿÿÿ8¹ò´×ê.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÇØœ8¦®ä×ê.
+T
+java:S2589"7Remove this expression which always evaluates to "true"(£¦Õð8úÊ†ëë.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(š…ý‹8Þ¥ïÖê.
